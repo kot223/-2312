@@ -1,0 +1,35 @@
+body {
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://avatars.mds.yandex.net/i?id=08d43150716f484238a018573c582255205ef481-9853689-images-thumbs&n=13);
+    background-size: 100%;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+.borderr {
+    width: 80%;
+    height: 80vh;
+    background-color: black;
+    border-radius: 30px;
+    opacity: 80%;
+    display: grid;
+    justify-content: center;
+}
+
+li {
+    margin-top: 20px;
+    color: aliceblue;
+    font-weight: 800;
+    width: 95%;
+}
+
+.btn {
+    color: aliceblue;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 900;
+}
